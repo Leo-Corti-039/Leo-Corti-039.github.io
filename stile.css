@@ -5,9 +5,12 @@
 }
 
 body{
-    width: 600px;
+    width: 800px;
+    margin: 0 auto;
+    background-color: lightblue;
 }
 
 h1{
     text-align: center;
+    margin:10px;
 }
